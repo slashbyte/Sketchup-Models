@@ -3,5 +3,6 @@ Models needed for pcb render
 
 ```
 Lite-On Inc.	:	LTP-3784E
-Sparkfun	:	SerialBasic	
+Sparkfun	:	DEV-14050
+holtek	:	HT16K33-03
 ```
