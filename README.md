@@ -2,5 +2,7 @@
 Models needed for pcb render
 
 ```
-Lite-On Inc. : LTP-3784E
+Lite-On Inc.	:	LTP-3784E
+
+Sparkfun		:	SerialBasic	
 ```
