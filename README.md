@@ -1,5 +1,5 @@
 # Sketchup-Models
-Models needed for pcb render
+A collection of Sketchup Models
 
 ```
 Lite-On Inc.	:	LTP-3784E
