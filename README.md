@@ -15,8 +15,11 @@ Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 |   |           texture.png
 |   |
 |   \---Packages
+|           msop-8.png
 |           msop-8.skp
+|           qfn-20-4mm.png
 |           qfn-20-4mm.skp
+|           sod-523.png
 |           sod-523.skp
 |           sot-23-3.png
 |           sot-23-3.skp
