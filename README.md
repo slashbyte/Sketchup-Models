@@ -15,19 +15,32 @@ Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 |   |           texture.png
 |   |
 |   \---Packages
+|           msop-8.skp
+|           qfn-20-4mm.skp
+|           sod-523.skp
 |           sot-23-3.png
 |           sot-23-3.skp
 |
 +---connectors
+|   +---Battery
+|   |   \---Jst
+|   |           ref.png
+|   |           S2B-PH-SM4-TB.skp
+|   |
 |   +---header-female
 |   |       SSW-120-02-T-D-RA.png
 |   |       SSW-120-02-T-D-RA.skp
 |   |
-|   \---header-male
-|           61304021021.png
-|           61304021021.skp
-|           95157-140LF.png
-|           95157-140LF.skp
+|   +---header-male
+|   |       61304021021.png
+|   |       61304021021.skp
+|   |       95157-140LF.png
+|   |       95157-140LF.skp
+|   |
+|   \---USB
+|       \---JAE
+|               DX4R005HJ5R2000.skp
+|               ref.png
 |
 +---display
 |   |   display.skp
@@ -65,12 +78,30 @@ Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 |           Serial-basic.png
 |           Serial-basic.skp
 |
++---passive
+|       0805-CAP-.6mm.skp
+|       0805-CAP-.85mm.skp
+|       0805-CAP-1.25mm.skp
+|       0805-cap.png
+|       0805-res.png
+|       0805-RES.skp
+|
 \---switch
-    \---Tl3305-series
-            switch.png
-            TL3305AF160QG(3.8mm).skp
-            TL3305BF260QG(5mm).skp
-            TL3305CF260QG(7mm).skp
-
-
+    +---Nidec
+    |       CUS-12TB.skp
+    |       ref.png
+    |
+    +---PTS645-series
+    |       PTS645SK13SMTR92LFS.skp
+    |       ref.png
+    |
+    +---Tl3305-series
+    |       switch.png
+    |       TL3305AF160QG(3.8mm).skp
+    |       TL3305BF260QG(5mm).skp
+    |       TL3305CF260QG(7mm).skp
+    |
+    \---Wurth
+            418121160802.skp
+            ref.png
 ```
