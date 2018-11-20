@@ -4,8 +4,6 @@ A collection of Sketchup Models
 ```
 Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 
-|   README.md
-|
 +---chips
 |   +---HT16K33
 |   |   |   28-pin SOP (300mil).skp
@@ -37,6 +35,8 @@ Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 |   +---header-male
 |   |       61304021021.png
 |   |       61304021021.skp
+|   |       67996-140HLF.png
+|   |       67996-140HLF.skp
 |   |       95157-140LF.png
 |   |       95157-140LF.skp
 |   |
@@ -88,6 +88,8 @@ Raspberry Pi	:	Zero W (obtained from https://www.thingiverse.com/thing:1612021)
 |       0805-cap.png
 |       0805-res.png
 |       0805-RES.skp
+|       TYS60204R7N-10.png
+|       TYS60204R7N-10.skp
 |
 \---switch
     +---Nidec
